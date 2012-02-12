@@ -1,0 +1,17 @@
+Package: com.alexandr-balyberdin.balance
+Name: balance
+Version: 1.0-1
+Description: 
+Section: Addons (NotificationCenter)
+Depends: firmware (>= 5.0)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Alexandr Balyberdin
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
